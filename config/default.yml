@@ -3,7 +3,7 @@ server:
   basePath: ''
 application:
   domain: juice-sh.op
-  name: 'OWASP Juice Shop'
+  name: 'Polaris Demo'
   logo: JuiceShop_Logo.png
   favicon: favicon_js.ico
   theme: bluegrey-lightgreen # Options: bluegrey-lightgreen blue-lightblue deeppurple-amber indigo-pink pink-bluegrey purple-green deeporange-indigo
